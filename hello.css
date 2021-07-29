@@ -1,5 +1,1 @@
-.IFrame-container {
-height: 800px;
-width: 800px;
-background: black;
-}
+.iFrame-container: { height: calc(100vh - 50px) }
