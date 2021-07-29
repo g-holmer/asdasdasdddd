@@ -1,1 +1,4 @@
-.iFrame-container: { height: calc(100vh - 50px) }
+.iFrame-container: { 
+  height: calc(100vh - 50px) 
+  --body-main: red !important;
+}
